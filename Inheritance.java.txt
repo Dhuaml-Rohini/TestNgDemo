@@ -1,0 +1,5 @@
+class inheritanceDemo{
+public static void main(String[]args){
+system.out.prinln("Hi,Iam Rohini Dhumal");
+}
+}
